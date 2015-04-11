@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Pavan/AndroidStudioProjects/BoxBuilder/app/src/main/res/values-en/arrays.xml -->
+    <eat-comment/>
+    <array name="spielerTypen">
+        <item>Human</item>
+        <item>KI Easy</item>
+        <item>KI Medium</item>
+        <!-- item>KI Hard</item -->
+    </array>
+    <!-- From: file:/C:/Users/Pavan/AndroidStudioProjects/BoxBuilder/app/src/main/res/values-en/strings.xml -->
+    <eat-comment/>
+    <string name="app_beenden">Quit</string>
+    <string name="app_name">"Dots'n'Boxes"</string>
+    <string name="feld_groesse">Field:</string>
+    <string name="game_score">Score Board</string>
+    <string name="gewinner">Winner</string>
+    <string name="play_again">Play again!</string>
+    <string name="spielen">Play</string>
+    <string name="spieler">Player:</string>
+    <string name="spieler_1_name">Cheese</string>
+    <string name="spieler_2_name">Mouse</string>
+    <string name="zurueck_zum_hauptmenue">main menu</string>
+</resources>

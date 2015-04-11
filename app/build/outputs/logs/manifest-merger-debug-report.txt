@@ -1,0 +1,59 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:2:1
+	package
+		ADDED from AndroidManifest.xml:3:7
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionName
+		ADDED from AndroidManifest.xml:3:50
+	android:versionCode
+		ADDED from AndroidManifest.xml:3:76
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	xmlns:android
+		ADDED from AndroidManifest.xml:2:11
+uses-sdk
+ADDED from AndroidManifest.xml:8:5
+	android:targetSdkVersion
+		ADDED from AndroidManifest.xml:8:41
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:8:15
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+application
+ADDED from AndroidManifest.xml:10:5
+	android:label
+		ADDED from AndroidManifest.xml:10:48
+	android:allowClearUserData
+		ADDED from AndroidManifest.xml:10:81
+	android:icon
+		ADDED from AndroidManifest.xml:10:18
+activity#de.stefan_oltmann.kaesekaestchen.StartseiteActivity
+ADDED from AndroidManifest.xml:12:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:13:19
+	android:label
+		ADDED from AndroidManifest.xml:12:19
+	android:name
+		ADDED from AndroidManifest.xml:14:19
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:15:13
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:16:17
+	android:name
+		ADDED from AndroidManifest.xml:16:27
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:17:17
+	android:name
+		ADDED from AndroidManifest.xml:17:27
+activity#de.stefan_oltmann.kaesekaestchen.SpielActivity
+ADDED from AndroidManifest.xml:21:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:22:13
+	android:label
+		ADDED from AndroidManifest.xml:21:19
+	android:name
+		ADDED from AndroidManifest.xml:22:50

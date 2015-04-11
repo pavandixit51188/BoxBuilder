@@ -1,0 +1,236 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* DotsAndBoxes\
+* DotsAndBoxes\.git\
+* DotsAndBoxes\.git\HEAD
+* DotsAndBoxes\.git\config
+* DotsAndBoxes\.git\description
+* DotsAndBoxes\.git\hooks\
+* DotsAndBoxes\.git\hooks\applypatch-msg.sample
+* DotsAndBoxes\.git\hooks\commit-msg.sample
+* DotsAndBoxes\.git\hooks\post-update.sample
+* DotsAndBoxes\.git\hooks\pre-applypatch.sample
+* DotsAndBoxes\.git\hooks\pre-commit.sample
+* DotsAndBoxes\.git\hooks\pre-push.sample
+* DotsAndBoxes\.git\hooks\pre-rebase.sample
+* DotsAndBoxes\.git\hooks\prepare-commit-msg.sample
+* DotsAndBoxes\.git\hooks\update.sample
+* DotsAndBoxes\.git\index
+* DotsAndBoxes\.git\info\
+* DotsAndBoxes\.git\info\exclude
+* DotsAndBoxes\.git\logs\
+* DotsAndBoxes\.git\logs\HEAD
+* DotsAndBoxes\.git\logs\refs\
+* DotsAndBoxes\.git\logs\refs\heads\
+* DotsAndBoxes\.git\logs\refs\heads\master
+* DotsAndBoxes\.git\logs\refs\remotes\
+* DotsAndBoxes\.git\logs\refs\remotes\origin\
+* DotsAndBoxes\.git\logs\refs\remotes\origin\HEAD
+* DotsAndBoxes\.git\objects\
+* DotsAndBoxes\.git\objects\23\
+* DotsAndBoxes\.git\objects\23\08759b8c707ba8459e67159d4c8841e84c6126
+* DotsAndBoxes\.git\objects\38\
+* DotsAndBoxes\.git\objects\38\32148cf467beaf5828f7fc87ad8486754d784d
+* DotsAndBoxes\.git\objects\5f\
+* DotsAndBoxes\.git\objects\5f\99b45538b3dfffda7f5fad93f5406e98257857
+* DotsAndBoxes\.git\objects\69\
+* DotsAndBoxes\.git\objects\69\27ac5861550e3042f945179a8b7999a58d5461
+* DotsAndBoxes\.git\objects\75\
+* DotsAndBoxes\.git\objects\75\4660263a44bce34b996ab8f2323d8a6227a9b3
+* DotsAndBoxes\.git\objects\79\
+* DotsAndBoxes\.git\objects\79\0dd71300d3c3901de05f36cf42243bbd8a9e0c
+* DotsAndBoxes\.git\objects\ac\
+* DotsAndBoxes\.git\objects\ac\6129fc8364e804879f670bf7c0a66ca9f715da
+* DotsAndBoxes\.git\objects\cb\
+* DotsAndBoxes\.git\objects\cb\15ed1d75e6d4b61efb777787df511ea73d5736
+* DotsAndBoxes\.git\objects\cc\
+* DotsAndBoxes\.git\objects\cc\4eea8e23fdee32460eaabae56ab82f64c61bc5
+* DotsAndBoxes\.git\objects\da\
+* DotsAndBoxes\.git\objects\da\5a5392313848af4c6011df38f8a7fcaefe902d
+* DotsAndBoxes\.git\objects\db\
+* DotsAndBoxes\.git\objects\db\1ab48a524869d73145f399e61ed66efae2215e
+* DotsAndBoxes\.git\objects\ed\
+* DotsAndBoxes\.git\objects\ed\65577fe3cdd5bdbb8e0c97d95d33012c5b2cc7
+* DotsAndBoxes\.git\objects\f7\
+* DotsAndBoxes\.git\objects\f7\2b29730a4039bf39609cc7b81cca5d73925a4d
+* DotsAndBoxes\.git\packed-refs
+* DotsAndBoxes\.git\refs\
+* DotsAndBoxes\.git\refs\heads\
+* DotsAndBoxes\.git\refs\heads\master
+* DotsAndBoxes\.git\refs\remotes\
+* DotsAndBoxes\.git\refs\remotes\origin\
+* DotsAndBoxes\.git\refs\remotes\origin\HEAD
+* DotsAndBoxes\.idea\
+* DotsAndBoxes\.idea\.name
+* DotsAndBoxes\.idea\compiler.xml
+* DotsAndBoxes\.idea\copyright\
+* DotsAndBoxes\.idea\copyright\profiles_settings.xml
+* DotsAndBoxes\.idea\misc.xml
+* DotsAndBoxes\.idea\modules.xml
+* DotsAndBoxes\.idea\vcs.xml
+* DotsAndBoxes\.idea\workspace.xml
+* DotsAndBoxes\DotsAndBoxes.iml
+* DotsAndBoxes\README.md
+* DotsAndBoxes\src\
+* DotsAndBoxes\src\Box.java
+* DotsAndBoxes\src\Edge.java
+* DotsAndBoxes\src\Game.java
+* DotsAndBoxes\test\
+* DotsAndBoxes\test\BoxTests.java
+* DotsAndBoxes\test\EdgeTests.java
+* DotsAndBoxes\test\GameTests.java
+* dots-and-boxes-master\
+* dots-and-boxes-master\.classpath
+* dots-and-boxes-master\.idea\
+* dots-and-boxes-master\.idea\.name
+* dots-and-boxes-master\.idea\compiler.xml
+* dots-and-boxes-master\.idea\copyright\
+* dots-and-boxes-master\.idea\copyright\profiles_settings.xml
+* dots-and-boxes-master\.idea\misc.xml
+* dots-and-boxes-master\.idea\modules.xml
+* dots-and-boxes-master\.idea\vcs.xml
+* dots-and-boxes-master\.idea\workspace.xml
+* dots-and-boxes-master\.project
+* dots-and-boxes-master\.settings\
+* dots-and-boxes-master\.settings\org.eclipse.jdt.core.prefs
+* dots-and-boxes-master\AndroidManifest.xml
+* dots-and-boxes-master\Dots and Boxes.iml
+* dots-and-boxes-master\README
+* dots-and-boxes-master\assets\
+* dots-and-boxes-master\assets\dot.png
+* dots-and-boxes-master\assets\dot_highlighted.png
+* dots-and-boxes-master\assets\dot_selected.png
+* dots-and-boxes-master\assets\player_r0g0b255.png
+* dots-and-boxes-master\assets\player_r0g0b255_line_horizontal.png
+* dots-and-boxes-master\assets\player_r0g0b255_line_vertical.png
+* dots-and-boxes-master\assets\player_r0g255b0.png
+* dots-and-boxes-master\assets\player_r0g255b0_line_horizontal.png
+* dots-and-boxes-master\assets\player_r0g255b0_line_vertical.png
+* dots-and-boxes-master\bin\
+* dots-and-boxes-master\bin\AndroidManifest.xml
+* dots-and-boxes-master\bin\Dots and Boxes.apk
+* dots-and-boxes-master\bin\classes.dex
+* dots-and-boxes-master\bin\classes\
+* dots-and-boxes-master\bin\classes\net\
+* dots-and-boxes-master\bin\classes\net\za\
+* dots-and-boxes-master\bin\classes\net\za\coldshift\
+* dots-and-boxes-master\bin\classes\net\za\coldshift\BaseDotModel.class
+* dots-and-boxes-master\bin\classes\net\za\coldshift\BuildConfig.class
+* dots-and-boxes-master\bin\classes\net\za\coldshift\DotModel.class
+* dots-and-boxes-master\bin\classes\net\za\coldshift\DotsAndBoxesActivity.class
+* dots-and-boxes-master\bin\classes\net\za\coldshift\DummyModel.class
+* dots-and-boxes-master\bin\classes\net\za\coldshift\GameLayer.class
+* dots-and-boxes-master\bin\classes\net\za\coldshift\LineModel.class
+* dots-and-boxes-master\bin\classes\net\za\coldshift\Player.class
+* dots-and-boxes-master\bin\classes\net\za\coldshift\R$attr.class
+* dots-and-boxes-master\bin\classes\net\za\coldshift\R$drawable.class
+* dots-and-boxes-master\bin\classes\net\za\coldshift\R$layout.class
+* dots-and-boxes-master\bin\classes\net\za\coldshift\R$string.class
+* dots-and-boxes-master\bin\classes\net\za\coldshift\R.class
+* dots-and-boxes-master\bin\classes\net\za\coldshift\ShapeModel.class
+* dots-and-boxes-master\bin\dexedLibs\
+* dots-and-boxes-master\bin\dexedLibs\cocos2d-android-e0d34190b9b92b26250f82ddf5b5d429.jar
+* dots-and-boxes-master\bin\jarlist.cache
+* dots-and-boxes-master\bin\res\
+* dots-and-boxes-master\bin\res\crunch\
+* dots-and-boxes-master\bin\res\crunch\drawable-hdpi\
+* dots-and-boxes-master\bin\res\crunch\drawable-hdpi\ic_launcher.png
+* dots-and-boxes-master\bin\res\crunch\drawable-ldpi\
+* dots-and-boxes-master\bin\res\crunch\drawable-ldpi\ic_launcher.png
+* dots-and-boxes-master\bin\res\crunch\drawable-mdpi\
+* dots-and-boxes-master\bin\res\crunch\drawable-mdpi\ic_launcher.png
+* dots-and-boxes-master\bin\resources.ap_
+* dots-and-boxes-master\gen\
+* dots-and-boxes-master\gen\net\
+* dots-and-boxes-master\gen\net\za\
+* dots-and-boxes-master\gen\net\za\coldshift\
+* dots-and-boxes-master\gen\net\za\coldshift\BuildConfig.java
+* dots-and-boxes-master\gen\net\za\coldshift\Manifest.java
+* dots-and-boxes-master\gen\net\za\coldshift\R.java
+* dots-and-boxes-master\libs\
+* dots-and-boxes-master\libs\cocos2d-android.jar
+* dots-and-boxes-master\proguard.cfg
+* dots-and-boxes-master\project.properties
+* dots-and-boxes-master\res\
+* dots-and-boxes-master\res\drawable-hdpi\
+* dots-and-boxes-master\res\drawable-hdpi\ic_launcher.png
+* dots-and-boxes-master\res\drawable-ldpi\
+* dots-and-boxes-master\res\drawable-ldpi\ic_launcher.png
+* dots-and-boxes-master\res\drawable-mdpi\
+* dots-and-boxes-master\res\drawable-mdpi\ic_launcher.png
+* dots-and-boxes-master\res\layout\
+* dots-and-boxes-master\res\layout\main.xml
+* dots-and-boxes-master\res\values\
+* dots-and-boxes-master\res\values\strings.xml
+* dots-and-boxes-master\src\
+* dots-and-boxes-master\src\net\
+* dots-and-boxes-master\src\net\za\
+* dots-and-boxes-master\src\net\za\coldshift\
+* dots-and-boxes-master\src\net\za\coldshift\BaseDotModel.java
+* dots-and-boxes-master\src\net\za\coldshift\DotModel.java
+* dots-and-boxes-master\src\net\za\coldshift\DotsAndBoxesActivity.java
+* dots-and-boxes-master\src\net\za\coldshift\DummyModel.java
+* dots-and-boxes-master\src\net\za\coldshift\GameLayer.java
+* dots-and-boxes-master\src\net\za\coldshift\LineModel.java
+* dots-and-boxes-master\src\net\za\coldshift\Player.java
+* dots-and-boxes-master\src\net\za\coldshift\ShapeModel.java
+* eclipse_formatter.xml
+* kaesekaestchen\
+* kaesekaestchen\.git\
+* kaesekaestchen\.git\HEAD
+* kaesekaestchen\.git\config
+* kaesekaestchen\.git\description
+* kaesekaestchen\.git\hooks\
+* kaesekaestchen\.git\hooks\applypatch-msg.sample
+* kaesekaestchen\.git\hooks\commit-msg.sample
+* kaesekaestchen\.git\hooks\post-update.sample
+* kaesekaestchen\.git\hooks\pre-applypatch.sample
+* kaesekaestchen\.git\hooks\pre-commit.sample
+* kaesekaestchen\.git\hooks\pre-push.sample
+* kaesekaestchen\.git\hooks\pre-rebase.sample
+* kaesekaestchen\.git\hooks\prepare-commit-msg.sample
+* kaesekaestchen\.git\hooks\update.sample
+* kaesekaestchen\.git\info\
+* kaesekaestchen\.git\info\exclude
+* pom.xml
+* res_original\
+* res_original\beenden.svg
+* res_original\icon.svg
+* res_original\pokal_kaese.svg
+* res_original\pokal_maus.svg
+* res_original\spielen.svg
+* res_original\spieler_symbol_kaese.svg
+* res_original\spieler_symbol_kreis.svg
+* res_original\spieler_symbol_kreuz.svg
+* res_original\spieler_symbol_maus.svg
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

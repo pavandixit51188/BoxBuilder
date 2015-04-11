@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="de.stefan_oltmann.kaesekaestchen"
+    android:versionCode="7"
+    android:versionName="0.5" >
+
+    <!--
+ Unterstützung für alle Display-Größen angeben.
+         Erst ab API Version 4 wird z.B. das HTC Wildfire unterstützt.
+         Auf diesem soll das Spiel auch laufen.
+    -->
+    <uses-sdk
+        android:minSdkVersion="3"
+        android:targetSdkVersion="4" />
+
+    <application
+        android:allowClearUserData="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name" >
+        <activity
+            android:name="de.stefan_oltmann.kaesekaestchen.StartseiteActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="de.stefan_oltmann.kaesekaestchen.SpielActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+    </application>
+
+</manifest>
