@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">BoxBuilder</string>
-    <string name="feld_groesse">Feld:</string>
-    <string name="spielen">Spielen</string>
-    <string name="app_beenden">Beenden</string>
-    <string name="spieler">Spieler:</string>
-    <string name="spieler_1_name">X</string>
-    <string name="spieler_2_name">O</string>
-    <string name="game_score">Spielergebnis</string>
-    <string name="gewinner">Gewinner</string>
-    <string name="play_again">Nochmal!</string>
-    <string name="zurueck_zum_hauptmenue">Hauptmenü</string>
+    <string name="app_name">"Box Builder"</string>
+    <string name="field">Field:</string>
+    <string name="play">Play</string>
+    <string name="quit">Quit</string>
+    <string name="player">Player:</string>
+    <string name="player_1_name">O</string>
+    <string name="player_2_name">X</string>
+    <string name="game_score">Score Board</string>
+    <string name="winner">Winner</string>
+    <string name="play_again">Play again!</string>
+    <string name="main_menu">main menu</string>
 </resources>

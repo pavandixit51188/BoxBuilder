@@ -5,7 +5,7 @@
     android:layout_height="fill_parent"
     android:layout_centerHorizontal="true"
     android:layout_centerVertical="true"
-    android:background="@color/hintergrund_farbe"
+    android:background="@color/background_color"
     android:orientation="vertical" >
 
     <TableLayout
@@ -19,26 +19,26 @@
             android:layout_height="wrap_content" >
 
             <TextView
-                android:text="@string/spieler"
+                android:text="@string/player"
                 android:layout_gravity="center_vertical"
-                style="@style/SpielerNamen" />
+                style="@style/PlayerName" />
             
             <ImageView
-                android:id="@+id/aktuellerSpielerSymbol"
+                android:id="@+id/currentPlayerSymbol"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/spieler_symbol_kaese" />
 
             <TextView
-                android:id="@+id/punkteAnzeige"
+                android:id="@+id/displayPoints"
                 android:layout_gravity="center_vertical"
-                style="@style/SpielerNamen" />
+                style="@style/PlayerName" />
             
         </TableRow>
 
     </TableLayout>
 
-    <de.stefan_oltmann.kaesekaestchen.SpielfeldView
+    <de.stefan_oltmann.kaesekaestchen.PitchView
         android:id="@+id/spielfeldView"
         android:layout_width="wrap_content"
         android:layout_height="fill_parent" />

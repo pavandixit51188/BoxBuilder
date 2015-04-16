@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/C:/Users/Pavan/AndroidStudioProjects/BoxBuilder/app/src/main/res/values/arrays.xml -->
+    <!-- From: file:/home/pavan/AIProject/BoxBuilder/BoxBuilder/app/src/main/res/values/arrays.xml -->
     <eat-comment/>
-    <array name="feldGroessen">
+    <array name="fieldSizes">
         <item>"3"</item>
         <item>"4"</item>
         <item>"5"</item>
@@ -17,33 +17,33 @@
         <item>"14"</item>
         <item>"15"</item>
     </array>
-    <array name="spielerTypen">
+    <array name="gameType">
         <item>Mensch</item>
         <item>KI Leicht</item>
         <item>KI Mittel</item>
         <!-- item>KI Schwer</item -->
     </array>
-    <!-- From: file:/C:/Users/Pavan/AndroidStudioProjects/BoxBuilder/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/home/pavan/AIProject/BoxBuilder/BoxBuilder/app/src/main/res/values/colors.xml -->
     <eat-comment/>
-    <color name="hintergrund_farbe">#eeeaab</color>
-    <color name="spieler_1_farbe">#00F</color>
-    <color name="spieler_2_farbe">#F00</color>
-    <!-- From: file:/C:/Users/Pavan/AndroidStudioProjects/BoxBuilder/app/src/main/res/values/strings.xml -->
+    <color name="background_color">#eeeaab</color>
+    <color name="player_1_color">#00F</color>
+    <color name="player_2_color">#F00</color>
+    <!-- From: file:/home/pavan/AIProject/BoxBuilder/BoxBuilder/app/src/main/res/values/strings.xml -->
     <eat-comment/>
-    <string name="app_beenden">Beenden</string>
-    <string name="app_name">Käsekästchen</string>
-    <string name="feld_groesse">Feld:</string>
-    <string name="game_score">Spielergebnis</string>
-    <string name="gewinner">Gewinner</string>
-    <string name="play_again">Nochmal!</string>
-    <string name="spielen">Spielen</string>
-    <string name="spieler">Spieler:</string>
-    <string name="spieler_1_name">Käse</string>
-    <string name="spieler_2_name">Maus</string>
-    <string name="zurueck_zum_hauptmenue">Hauptmenü</string>
-    <!-- From: file:/C:/Users/Pavan/AndroidStudioProjects/BoxBuilder/app/src/main/res/values/styles.xml -->
+    <string name="app_name">"Box Builder"</string>
+    <string name="field">Field:</string>
+    <string name="game_score">Score Board</string>
+    <string name="main_menu">main menu</string>
+    <string name="play">Play</string>
+    <string name="play_again">Play again!</string>
+    <string name="player">Player:</string>
+    <string name="player_1_name">O</string>
+    <string name="player_2_name">X</string>
+    <string name="quit">Quit</string>
+    <string name="winner">Winner</string>
+    <!-- From: file:/home/pavan/AIProject/BoxBuilder/BoxBuilder/app/src/main/res/values/styles.xml -->
     <eat-comment/>
-    <style name="SpielerNamen">
+    <style name="PlayerName">
         <item name="android:textSize">30sp</item>
         <item name="android:textColor">#000</item>
     </style>

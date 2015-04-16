@@ -31,7 +31,7 @@ ADDED from AndroidManifest.xml:10:5
 		ADDED from AndroidManifest.xml:10:81
 	android:icon
 		ADDED from AndroidManifest.xml:10:18
-activity#de.stefan_oltmann.kaesekaestchen.StartseiteActivity
+activity#de.stefan_oltmann.kaesekaestchen.HomeActivity
 ADDED from AndroidManifest.xml:12:9
 	android:screenOrientation
 		ADDED from AndroidManifest.xml:13:19
@@ -49,7 +49,7 @@ category#android.intent.category.LAUNCHER
 ADDED from AndroidManifest.xml:17:17
 	android:name
 		ADDED from AndroidManifest.xml:17:27
-activity#de.stefan_oltmann.kaesekaestchen.SpielActivity
+activity#de.stefan_oltmann.kaesekaestchen.GameActivity
 ADDED from AndroidManifest.xml:21:9
 	android:screenOrientation
 		ADDED from AndroidManifest.xml:22:13
