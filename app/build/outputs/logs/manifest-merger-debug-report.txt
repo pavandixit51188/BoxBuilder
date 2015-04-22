@@ -6,9 +6,9 @@ ADDED from AndroidManifest.xml:2:1
 		INJECTED from AndroidManifest.xml:0:0
 		INJECTED from AndroidManifest.xml:0:0
 	android:versionName
-		ADDED from AndroidManifest.xml:3:50
+		ADDED from AndroidManifest.xml:3:41
 	android:versionCode
-		ADDED from AndroidManifest.xml:3:76
+		ADDED from AndroidManifest.xml:3:67
 		INJECTED from AndroidManifest.xml:0:0
 		INJECTED from AndroidManifest.xml:0:0
 	xmlns:android
@@ -31,7 +31,7 @@ ADDED from AndroidManifest.xml:10:5
 		ADDED from AndroidManifest.xml:10:81
 	android:icon
 		ADDED from AndroidManifest.xml:10:18
-activity#de.stefan_oltmann.kaesekaestchen.HomeActivity
+activity#edu.UTD.ComputerScience.HomeActivity
 ADDED from AndroidManifest.xml:12:9
 	android:screenOrientation
 		ADDED from AndroidManifest.xml:13:19
@@ -49,7 +49,7 @@ category#android.intent.category.LAUNCHER
 ADDED from AndroidManifest.xml:17:17
 	android:name
 		ADDED from AndroidManifest.xml:17:27
-activity#de.stefan_oltmann.kaesekaestchen.GameActivity
+activity#edu.UTD.ComputerScience.GameActivity
 ADDED from AndroidManifest.xml:21:9
 	android:screenOrientation
 		ADDED from AndroidManifest.xml:22:13

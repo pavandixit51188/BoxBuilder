@@ -9,6 +9,7 @@
     <string name="player_2_name">X</string>
     <string name="game_score">Score Board</string>
     <string name="winner">Winner</string>
+    <string name="match_drawn">Match Draw</string>
     <string name="play_again">Play again!</string>
     <string name="main_menu">main menu</string>
 </resources>

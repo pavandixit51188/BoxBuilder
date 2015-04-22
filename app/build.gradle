@@ -5,7 +5,7 @@ android {
     buildToolsVersion "21.1.2"
 
     defaultConfig {
-        applicationId "de.stefan_oltmann.kaesekaestchen"
+        applicationId "edu.UTD.ComputerScience"
         minSdkVersion 3
         targetSdkVersion 4
         compileOptions {

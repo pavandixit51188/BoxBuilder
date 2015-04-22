@@ -38,7 +38,7 @@
 
     </TableLayout>
 
-    <de.stefan_oltmann.kaesekaestchen.PitchView
+    <edu.UTD.ComputerScience.PitchView
         android:id="@+id/spielfeldView"
         android:layout_width="wrap_content"
         android:layout_height="fill_parent" />

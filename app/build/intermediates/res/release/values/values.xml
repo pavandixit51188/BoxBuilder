@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/pavan/AIProject/BoxBuilder/BoxBuilder/app/src/main/res/values/arrays.xml -->
+    <eat-comment/>
+    <array name="fieldSizes">
+        <item>"3"</item>
+        <item>"4"</item>
+        <item>"5"</item>
+        <item>"6"</item>
+        <item>"7"</item>
+        <item>"8"</item>
+        <item>"9"</item>
+        <item>"10"</item>
+        <item>"11"</item>
+        <item>"12"</item>
+        <item>"13"</item>
+        <item>"14"</item>
+        <item>"15"</item>
+    </array>
+    <array name="gameType">
+        <item>Mensch</item>
+        <item>KI Leicht</item>
+        <item>KI Mittel</item>
+        <!-- item>KI Schwer</item -->
+    </array>
+    <!-- From: file:/home/pavan/AIProject/BoxBuilder/BoxBuilder/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="background_color">#eeeaab</color>
+    <color name="player_1_color">#00F</color>
+    <color name="player_2_color">#F00</color>
+    <!-- From: file:/home/pavan/AIProject/BoxBuilder/BoxBuilder/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">"Box Builder"</string>
+    <string name="field">Field:</string>
+    <string name="game_score">Score Board</string>
+    <string name="main_menu">main menu</string>
+    <string name="play">Play</string>
+    <string name="play_again">Play again!</string>
+    <string name="player">Player:</string>
+    <string name="player_1_name">O</string>
+    <string name="player_2_name">X</string>
+    <string name="quit">Quit</string>
+    <string name="winner">Winner</string>
+    <!-- From: file:/home/pavan/AIProject/BoxBuilder/BoxBuilder/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="PlayerName">
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">#000</item>
+    </style>
+</resources>

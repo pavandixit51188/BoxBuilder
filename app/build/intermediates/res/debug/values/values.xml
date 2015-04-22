@@ -34,6 +34,7 @@
     <string name="field">Field:</string>
     <string name="game_score">Score Board</string>
     <string name="main_menu">main menu</string>
+    <string name="match_drawn">Match Draw</string>
     <string name="play">Play</string>
     <string name="play_again">Play again!</string>
     <string name="player">Player:</string>

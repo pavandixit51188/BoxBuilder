@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/pavan/AIProject/BoxBuilder/BoxBuilder/app/src/main/res/values-en/arrays.xml -->
+    <eat-comment/>
+    <array name="gameType">
+        <item>Human</item>
+        <item>Easy</item>
+        <item>Medium</item>
+        <!-- item>KI Hard</item -->
+    </array>
+    <!-- From: file:/home/pavan/AIProject/BoxBuilder/BoxBuilder/app/src/main/res/values-en/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">"Box Builder"</string>
+    <string name="field">Field:</string>
+    <string name="game_score">Score Board</string>
+    <string name="main_menu">main menu</string>
+    <string name="play">Play</string>
+    <string name="play_again">Play again!</string>
+    <string name="player">Player:</string>
+    <string name="player_1_name">O</string>
+    <string name="player_2_name">X</string>
+    <string name="quit">Quit</string>
+    <string name="winner">Winner</string>
+</resources>
